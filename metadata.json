@@ -1,0 +1,6 @@
+{
+  "name": "Solução Verde",
+  "description": "Landing page profissional de licenciamento e consultoria ambiental, com alto foco em conversão, design responsivo de alta performance e calculadora de riscos ambientais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
